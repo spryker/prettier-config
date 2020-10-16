@@ -9,5 +9,9 @@
     "bracketSpacing": true,
     "arrowParens": "avoid",
     "proseWrap": "preserve",
-    "endOfLine": "lf"
+    "endOfLine": "lf",
+    "plugins": ["prettier-plugin-twig-melody"],
+    "twigPrintWidth": 120,
+    "twigFollowOfficialCodingStandards": false,
+    "twigAlwaysBreakObjects": false
 }
