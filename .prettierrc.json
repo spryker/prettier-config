@@ -4,14 +4,10 @@
     "useTabs": false,
     "semi": true,
     "singleQuote": true,
-    "quoteProps": "consistent",
+    "quoteProps": "as-needed",
     "trailingComma": "all",
     "bracketSpacing": true,
-    "arrowParens": "avoid",
+    "arrowParens": "always",
     "proseWrap": "preserve",
-    "endOfLine": "lf",
-    "plugins": ["prettier-plugin-twig-melody"],
-    "twigPrintWidth": 120,
-    "twigFollowOfficialCodingStandards": false,
-    "twigAlwaysBreakObjects": false
+    "endOfLine": "lf"
 }
