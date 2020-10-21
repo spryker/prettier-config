@@ -1,0 +1,6 @@
+{
+    "name": "@spryker/prettier-config",
+    "description": "Spryker config for the prettier formatter",
+    "license": "MIT",
+    "version": "0.1.0"
+}
